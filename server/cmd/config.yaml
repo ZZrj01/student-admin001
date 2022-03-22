@@ -1,0 +1,11 @@
+# mysql 信息
+mysql:
+  host: "127.0.0.1"
+  port: 3306
+  dataName: "student"
+  userName: "root"
+  userPwd: "12341234"
+  charset: "utf8"
+# 本地服务信息
+server:
+  port: 80
